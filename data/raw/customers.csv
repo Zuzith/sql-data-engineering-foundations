@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,province,join_date,customer_segment
+1,Bronny,Menico,Gauteng,9/20/2025,Business
+2,Basil,Casino,Mpumalanga,8/7/2026,Retail
+3,Maynord,Main,Free State,6/5/2026,Premier
+4,Orton,Narramor,North West,4/25/2026,Premier
+5,Tyne,Hatliffe,KwaZulu-Natal,7/29/2026,Retail
+6,Keelby,Obeney,Northen Cape,5/31/2026,Premier
+7,Viki,Uttermare,Gauteng,1/29/2026,Retail
+8,Matteo,Zanitti,Eastern Cape,11/22/2025,Premier
+9,Sergeant,Villa,Northen Cape,9/8/2026,Retail
+10,Vanna,Jerdon,Northern Cape,4/7/2026,Business
+11,Molly,Slyde,KwaZulu-Natal,8/18/2026,Retail
+12,Marvin,Cruse,Mpumalanga,4/23/2026,Retail
+13,Rosalind,Naton,Western Cape,12/31/2025,Retail
+14,Elle,McIlhatton,KwaZulu-Natal,10/27/2025,Business
+15,Alley,Risely,Northen Cape,10/6/2025,Premier
+16,Eleanore,Annes,Western Cape,9/30/2025,Retail
+17,Rip,Lowbridge,North West,7/18/2026,Retail
+18,Haskel,Hankey,Limpopo,8/10/2026,Premier
+19,Tremayne,Rockliffe,Northen Cape,10/7/2025,Retail
+20,Emma,Tewkesbury.,Eastern Cape,6/10/2026,Business
+21,Adora,Mullins,KwaZulu-Natal,5/19/2026,Premier
+22,Adoree,Hause,Mpumalanga,9/10/2026,Premier
+23,Alisander,Channon,KwaZulu-Natal,4/26/2026,Business
+24,Maud,Franchyonok,Northern Cape,9/28/2025,Retail
+25,Kimbra,Goldney,Free State,7/4/2026,Premier
+26,Ellissa,Winscomb,Eastern Cape,12/18/2025,Retail
+27,Cirstoforo,Paxforde,Limpopo,7/24/2026,Premier
+28,Torey,Marciek,Free State,4/12/2026,Retail
+29,Karie,de la Valette Parisot,Eastern Cape,11/30/2025,Premier
+30,Charlton,Haggerty,KwaZulu-Natal,10/25/2025,Premier
+31,Vivyanne,Linnit,Gauteng,10/25/2025,Business
+32,Feodora,Assinder,Eastern Cape,10/11/2025,Business
+33,Noelani,Etherton,Western Cape,3/17/2026,Retail
+34,Alisa,Hawkett,KwaZulu-Natal,10/28/2025,Retail
+35,Joan,Grooby,Gauteng,5/10/2026,Retail
+36,Haily,Andrusyak,Northen Cape,8/21/2026,Premier
+37,Alleen,Dufoure,Mpumalanga,1/2/2026,Retail
+38,Linn,Russon,Free State,12/28/2025,Premier
+39,Currie,Brendeke,Eastern Cape,4/10/2026,Business
+40,Benoite,Oakey,Western Cape,1/14/2026,Business
+41,Emlynn,Stanning,Mpumalanga,1/15/2026,Business
+42,Adriena,O' Shea,Northern Cape,4/26/2026,Business
+43,May,Silverlock,Northen Cape,12/20/2025,Retail
+44,Emilio,Sturdgess,North West,11/25/2025,Business
+45,Howard,Stockdale,Mpumalanga,5/11/2026,Retail
+46,Artemas,Escofier,Mpumalanga,5/25/2026,Premier
+47,Bonnie,Heinschke,Limpopo,10/14/2025,Business
+48,Ingeberg,Oven,North West,8/6/2026,Business
+49,Lavena,Conradsen,Northern Cape,2/17/2026,Business
+50,Zared,Fydoe,KwaZulu-Natal,1/24/2026,Business
+51,Tonia,Malthouse,Western Cape,8/23/2026,Retail
+52,Farlie,Castellanos,Northen Cape,7/16/2026,Retail
+53,Vinni,Wenham,Limpopo,3/21/2026,Premier
+54,Hyacinthe,McDool,Western Cape,3/23/2026,Retail
+55,Duane,Kintish,Eastern Cape,11/18/2025,Business
+56,Kelsi,Bonnette,KwaZulu-Natal,7/2/2026,Premier
+57,Nathalie,Wragge,Limpopo,6/18/2026,Retail
+58,Arabella,Trundle,Northern Cape,7/2/2026,Premier
+59,Evie,Dulen,North West,5/7/2026,Retail
+60,Tabby,Ree,Western Cape,8/30/2026,Retail
+61,Donnell,Brodest,Western Cape,7/26/2026,Premier
+62,Maddalena,Hudghton,North West,4/13/2026,Retail
+63,Flossy,Balls,Gauteng,9/2/2026,Retail
+64,Katuscha,Lafflin,Eastern Cape,4/29/2026,Retail
+65,Otes,Infantino,Gauteng,10/21/2025,Premier
+66,Dov,Lindsley,Limpopo,7/27/2026,Business
+67,Sanson,Van de Velde,Gauteng,4/20/2026,Retail
+68,Olive,Eginton,Limpopo,9/17/2025,Business
+69,Dorine,Danielsen,Free State,12/5/2025,Retail
+70,Emyle,Deware,KwaZulu-Natal,6/20/2026,Premier
+71,Curtis,FitzGeorge,Mpumalanga,8/24/2026,Retail
+72,Curcio,Woodger,Northern Cape,5/13/2026,Premier
+73,Alleen,Abys,Free State,1/2/2026,Retail
+74,Charlena,Simononsky,Eastern Cape,7/27/2026,Retail
+75,Ulrike,Chettoe,Northen Cape,2/18/2026,Retail
+76,Iggie,Blackman,Eastern Cape,1/8/2026,Premier
+77,Aeriel,Furneaux,Free State,7/14/2026,Business
+78,Stanleigh,Gallier,Limpopo,8/13/2026,Premier
+79,Abey,Hughs,Northen Cape,4/4/2026,Retail
+80,Dud,Donwell,Northern Cape,9/30/2025,Premier
+81,Jerry,Cakebread,Gauteng,1/15/2026,Business
+82,Cosmo,Eicke,KwaZulu-Natal,2/5/2026,Retail
+83,Fedora,Eversley,Mpumalanga,4/20/2026,Premier
+84,Carolus,Aubin,North West,5/22/2026,Business
+85,Viviana,Bracken,North West,4/16/2026,Retail
+86,Matti,Bauld,Eastern Cape,4/20/2026,Premier
+87,Uriah,L'Episcopio,North West,11/28/2025,Premier
+88,Jo-anne,Lodwick,North West,5/29/2026,Premier
+89,Guilbert,Jeenes,Limpopo,5/4/2026,Premier
+90,Erena,Playfoot,KwaZulu-Natal,11/27/2025,Premier
+91,Sharia,Bree,Mpumalanga,2/9/2026,Retail
+92,Avril,Wims,Eastern Cape,6/5/2026,Premier
+93,Crissy,Swapp,KwaZulu-Natal,9/26/2025,Premier
+94,Brandea,Argue,KwaZulu-Natal,12/26/2025,Business
+95,Stepha,Papaccio,Northen Cape,4/29/2026,Retail
+96,Ashton,Aslie,Free State,3/4/2026,Premier
+97,Suki,Djekic,Mpumalanga,8/24/2026,Business
+98,Anastassia,Carvilla,Western Cape,5/3/2026,Retail
+99,Waite,Ritzman,Northen Cape,2/10/2026,Premier
+100,Luise,Jehan,North West,3/24/2026,Retail
