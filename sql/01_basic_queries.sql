@@ -1,0 +1,3 @@
+-- SQL Data Engineering Foundations
+-- Basic Queries
+-- Purpose: practise filtering, aggregation, grouping and CASE expressions.

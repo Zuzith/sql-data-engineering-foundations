@@ -1,0 +1,3 @@
+-- SQL Data Engineering Foundations
+-- Common Table Expressions
+-- Purpose: build readable multi-step analytical queries.

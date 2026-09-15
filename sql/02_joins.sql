@@ -1,0 +1,4 @@
+-- SQL Data Engineering Foundations
+-- Joins
+-- Purpose: analyse relationships between customers, accounts,
+-- branches and transactions.

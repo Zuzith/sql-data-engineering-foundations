@@ -1,0 +1,3 @@
+-- SQL Data Engineering Foundations
+-- Window Functions
+-- Purpose: practise ranking, running totals and partitioned calculations.
