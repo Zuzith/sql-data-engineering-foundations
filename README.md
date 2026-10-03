@@ -35,6 +35,21 @@ The model contains four entities:
 
 ## Project Status
 
-In development.
+### Month 1 — Foundational SQL Analysis
 
-Current phase: repository and data model setup.
+Completed foundational analysis using:
+
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- COUNT
+- SUM
+- AVG
+- aliases
+- basic data-quality checks
+
+The current analysis answers business questions relating to
+customers, accounts and transactions using synthetic banking data.
+
+Current phase: Foundational SQL analysis completed
